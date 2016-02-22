@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: About Me
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -42,5 +42,10 @@ Here's a sample "posts list".
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+
+## What's this
+I am a PhD Student, Researcher under the supervision of [Prof. Yannis Vassiliou](http://www.dblab.ntua.gr/people/yv.html), at the 
+[School of ECE](http://www.ece.ntua.gr) of the [National Technical University of Athens](http://www.ntua.gr), Greece, and a member of
+[Knowledge &amp; Database Systems](http://www.dblab.ntua.gr/) group.
 
 
